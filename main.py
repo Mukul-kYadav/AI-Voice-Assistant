@@ -57,7 +57,7 @@ def user_input():
             exit()
     except Exception:
         speak("Sorry, I could not understand. Could you please say that again?")
-        query = None
+        user_input()
     return query
 
 
