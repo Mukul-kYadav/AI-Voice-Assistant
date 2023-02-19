@@ -7,8 +7,9 @@
 * Online operations Such as: Sending message on WhatsApp, Writing Email, Searching on google, Playing Video on Youtube, getting Weather information and many more
 * Key Learnings: 
   * Python Virtual Environment
-  * Various APIs such as google voice assistant etc
+  * Various APIs
   * How a AI model Works
+  * Various Python Libraries
 
 
 ```
